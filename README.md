@@ -1,2 +1,2 @@
 # 8AM-Devops-AUG
-##Repo for devops traning purpose
+##Repo for devops traning purpose.
